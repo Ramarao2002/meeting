@@ -79,7 +79,7 @@ p{
 
 #div3{
     background-color: rgb(243, 239, 231);
-    height: 650px;
+    background-size: cover;
     padding: 3px;
 }
 #div1{
@@ -290,4 +290,5 @@ h1{
     border-radius: 5px;
     vertical-align: top;
     margin-top: 4px;
+    margin-bottom: 50px;
 }
